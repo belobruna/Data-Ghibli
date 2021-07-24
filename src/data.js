@@ -27,7 +27,16 @@ export const filterData = (data, getDirector) => {
    return filterDirector
 };
 
-export const agruparScore = function agruparPor(objetoArray, propriedade) {
+export const calculateAvgScore = (arr) => {
+  const scores = arr.reduce(function (total, film) {
+      const filmScore = Number(film.rt_score)
+      return total + filmScore
+  }, 0);
+  const average = scores / arr.length
+  return average.toFixed(2)
+};
+
+/*export const agruparScore = function agruparPor(objetoArray, propriedade) {
   return objetoArray.reduce(function (acc, obj) {
     let key = obj[propriedade];
     if (!acc[key]) {
@@ -36,4 +45,4 @@ export const agruparScore = function agruparPor(objetoArray, propriedade) {
     acc[key].push(obj);
     return acc;
   }, {});
-};
+};*/
