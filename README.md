@@ -31,4 +31,16 @@ Página de Dados - Em formato de cards, possibilita ao usuário ter acesso à in
 
 Uma História de Usuário representa em linguagem simples o que o usuário faz, do que ele precisa e por que, de maneira concisa. As histórias para esse projeto foram escritas pensando nas necessidades de nosso usuário final. A medida que o projeto avançava, algumas histórias foram subdivididas, tendo como objetivo organizar melhor as tarefas e atender aos requisitos da aplicação.
 
-![img](./src/images/Historias_usuario.png) 
+![images](./src/images/Historias_usuario.png) 
+
+## 3. Desenvolvimento da Interface
+
+Após a primeira análise dos dados disponíveis, percebemos que o site contaria com com cards de filmes e personagens que seriam filtrados e ordenados. A partir desta primeira ideia foi definido o protótipo de baixa fidelidade:
+
+(Protótipo de baixa fidelidade)
+
+Desenvolvemos o prototótipo de alta fidelidade no figma, onde posteriormente fizemos algumas alterações.
+
+![images](./src/images/Sample_Wireframe.png)
+
+
