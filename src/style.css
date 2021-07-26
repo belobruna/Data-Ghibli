@@ -49,6 +49,13 @@ body{
     }   
 }
 
+.logo{
+    display: flex;
+    margin-left: auto;
+    margin-right: 10%o;
+    width: 30%;
+    padding-top:30%; 
+}
 
 
 .menu{
@@ -179,6 +186,13 @@ label[for="bt_menu"]{
 
     .keyframesContainer{
         animation: none;
+        background-color: #38527B;
+    }
+    .logo{
+        padding-top: 35%;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
     }
 } 
 

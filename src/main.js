@@ -17,13 +17,12 @@ const cardsContainer = document.getElementById("boxCards");
 //const modalContent = document.getElementById("modalContent");
 const modalArea = document.getElementById("modalArea");
 const searchResultContainer = document.getElementById("searchResultContainer");
+const logo = document.getElementById("logo-container");
 
 const clean = () => {
     cardsContainer.innerHTML = "";
-    //modalContent.innerHTML = "";
-    //modalArea.innerHTML = "";
     keyframesContainer.style.animation = "none";
-    //searchResultContainer.innerHTML = "";
+    logo.innerHTML = "";
 }
 
 const cleanSearch = () => {
@@ -116,7 +115,7 @@ function printAvgScore(){
 
 function printCardsAbout(){
     cardsContainer.innerHTML += `
-    <div class="filmCard">
+    <div class="aboutCard">
         <div class="flipper">
             <div class="frontCard"> 
                 <h3 class="card-about">Find out the average score given to Studio Ghibli movies</h3>
