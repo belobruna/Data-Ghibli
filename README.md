@@ -27,11 +27,13 @@ Página de Personagens - Apresenta cards com todos os personagens no verso algum
 
 Página de Dados - Em formato de cards, possibilita ao usuário ter acesso à informações sobre o tema e médias. (Em construção)
 
+
 ## 2. Histórias de Usuários
 
 Uma História de Usuário representa em linguagem simples o que o usuário faz, do que ele precisa e por que, de maneira concisa. As histórias para esse projeto foram escritas pensando nas necessidades de nosso usuário final. A medida que o projeto avançava, algumas histórias foram subdivididas, tendo como objetivo organizar melhor as tarefas e atender aos requisitos da aplicação.
 
 ![images](./src/images/Historias_usuario.png) 
+
 
 ## 3. Desenvolvimento da Interface
 
@@ -43,41 +45,45 @@ Desenvolvemos o prototótipo de alta fidelidade no figma, onde posteriormente fi
 
 ![images](./src/images/Sample_Wireframe.png)
 
-Escolhemos a Flat UI Pallate em https://flatcolors.net/palette/182-flat-ui-pallate# como referência do site https://ghiblicollection.com/
+Escolhemos a Flat UI Pallate em [sitepalette](https://flatcolors.net/palette/182-flat-ui-pallate#) como referência do site [siteghibli](https://ghiblicollection.com/).
 
-![Alt text](Flat_UI_Pallate.gif)
+![images](Flat_UI_Pallate.gif)
+
+Construímos um desing responsível para se adequar as mais diversas telas, abaixo temos o exemplo da Home acessada por um dispositivo móvel (Moto G4).
+![images](./src/images/Home_MotoG4.png)
+
 
 ## 5. Conteúdos implementados no projeto
 Para construir a interface desta aplicação, em que é possível visualizar e manipular dados, os conhecimentos abordados foram:
 
-HTML e CSS
-Uso de HTML semântico.
-Uso de seletores de CSS.
-Construir sua aplicação respeitando o desenho realizado (protótipo).
-Uso de flexbox em CSS.
-DOM e Web APIs
-Uso de seletores de DOM.
-Gerenciamento de eventos de DOM.
-Manipulação dinâmica de DOM. (appendChild |createElement | createTextNode| innerHTML | textContent | etc.)
-JavaScript
-Uso de condicionais (if-else | switch | operador ternário)
-Uso de laços (for | for..in | for..of | while)
-Uso de funções (parâmetros | argumentos | valor de retorno)
-Manipular arrays (filter | map | sort | reduce)
-Manipular objects (key | value)
-Uso ES modules (import | export)
-Diferenciar entre expression e statements.
-Diferenciar entre tipos de dados atômicos e estruturados.
-Testing
-Teste unitário.
-Estrutura do código e guia de estilo
-Organizar e dividir o código em módulos (Modularização)
-Uso de identificadores descritivos (Nomenclatura | Semântica)
-Uso de linter (ESLINT)
-Git e GitHub
-Uso de comandos de git (add | commit | pull | status | push)
-Gerenciar repositórios de GitHub (clone | fork | gh-pages)
-Colaboração no Github (branches | pull requests | |tags)
+- HTML e CSS
+- Uso de HTML semântico.
+- Uso de seletores de CSS.
+- Construir sua aplicação respeitando o desenho realizado (protótipo).
+- Uso de flexbox em CSS.
+- DOM e Web APIs
+- Uso de seletores de DOM.
+- Gerenciamento de eventos de DOM.
+- Manipulação dinâmica de DOM. (appendChild |createElement | createTextNode| innerHTML | textContent | etc.)
+- JavaScript
+- Uso de condicionais (if-else | switch | operador ternário)
+- Uso de laços (for | for..in | for..of | while)
+- Uso de funções (parâmetros | argumentos | valor de retorno)
+- Manipular arrays (filter | map | sort | reduce)
+- Manipular objects (key | value)
+- Uso ES modules (import | export)
+- Diferenciar entre expression e statements.
+- Diferenciar entre tipos de dados atômicos e estruturados.
+- Testing
+- Teste unitário.
+- Estrutura do código e guia de estilo
+- Organizar e dividir o código em módulos (Modularização)
+- Uso de identificadores descritivos (Nomenclatura | Semântica)
+- Uso de linter (ESLINT)
+- Git e GitHub
+- Uso de comandos de git (add | commit | pull | status | push)
+- Gerenciar repositórios de GitHub (clone | fork | gh-pages)
+- Colaboração no Github (branches | pull requests | |tags)
 
 
 
