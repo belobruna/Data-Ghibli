@@ -99,13 +99,13 @@ const printCardsCharacters = (listaPersonagens) => {
 function printAvgScore(){
     const avgScore = calculateAvgScore(getFilms)
     cardsContainer.innerHTML += `
-        <div class="filmCard">
+        <div class="aboutCardAvg">
             <div class="flipper">
                 <div class="frontCard"> 
-                    <h3 class="card-about">Find out the average score given to Studio Ghibli movies</h3>
+                    <h3 class="avg-front">Find out the average score given to Studio Ghibli movies</h3>
                 </div>
                 <div class="backCard">
-                    <h3 class="avg-score"> ${avgScore}</h3> <br>
+                    <h3 class="avg-score-back"> ${avgScore}</h3> <br>
                 </div>
             </div>
         </div>`
@@ -118,10 +118,25 @@ function printCardsAbout(){
     <div class="aboutCard">
         <div class="flipper">
             <div class="frontCard"> 
-                <h3 class="card-about">Find out the average score given to Studio Ghibli movies</h3>
+                <h3 class="card-about-title"></h3>
+                <img class="img-card-about" src="./images/ghibli-logo.png">
             </div>
             <div class="backCard">
-                <h3 class="avg-score"> Olá </h3> <br>
+                <div class="card-about"> <p> <b>Studio Ghibli, Inc.</b>, known simply as Ghibli, is a Japanese animation film studio headquartered 
+                in Koganei, Tokyo. They were founded by Isao Takahata, Hayao Miyazaki, Toshio Suzuki, and Yasuyoshi Tokuma. </p>
+
+                <p>The company began operations in June 1985 as a subsidiary of Tokuma Shoten Co., Ltd. for the purpose of producing 
+                animated films directed by Isao Takahata and Hayao Miyazaki. Initially based in Kichijōji, they moved to Kajino-cho, 
+                Koganei in August 1992. In June 1997, the company merged with Tokuma Shoten Co., Ltd. and became Tokuma Shoten Co., 
+                Ltd./Studio Ghibli Company (later Studio Ghibli Business Headquarters). In April 2005, Studio Ghibli Co., Ltd. 
+                became independent from Tokuma Shoten.  </p>
+                
+                <p> The company's logo features the character Totoro from Hayao Miyazaki's film My Neighbor Totoro. </p>
+                
+                <p>Several anime features created by Ghibli have won the Animage Anime Grand Prix Award including Castle in the Sky in 1986, 
+                My Neighbor Totoro in 1988, and Kiki's Delivery Service in 1989. In 2002, Spirited Away won an Oscar for Best Animated 
+                Feature, the first anime film to win an Academy Award. </p>
+                </div>
             </div>
         </div>
     </div>`
