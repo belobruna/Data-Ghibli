@@ -7,8 +7,7 @@
 - [1. Introdução ao Projeto](#1.-introdução-ao-projeto)
 - [2. Histórias de Usuários](#2.-histórias-de-usuários)
 - [3. Desenvolvimento da Interface](#3.-desenvolvimento-da-interface)
-- [4. Testes de Usabilidade](#4.-testes-de-usabilidade)
-- [5. Conteúdos implementados no projeto](#5.-conteúdos-implementados-no-projeto)
+- [4. Conteúdos implementados no projeto](#5.-conteúdos-implementados-no-projeto)
 
 
 ## 1. Introdução ao Projeto
@@ -19,13 +18,13 @@ Studio Ghibli é um estúdio japonês de animação, muito conhecido por seus fi
 
 A partir dessa proposta definimos que o site seria dividido em 4 páginas:
 
-Página Inicial - Traz um menu responsivio em dispositivos móveis, e uma apresetação de imagens de filmes mais conhecidos.
+Página Inicial (Home) - Traz um menu responsivio em dispositivos móveis, e uma apresentação de imagens de filmes mais conhecidos.
 
-Página de filmes - Possibilita a visualização de todos os filmes do estúdio em formato de cards e no verso detalhes sobre cada um. Os filmes podem ser ordenados por ordem alfabética, A-Z e Z-A.
+Página de filmes (Films) - Possibilita a visualização de todos os filmes do estúdio em formato de cards e no verso detalhes sobre cada um. Os filmes podem ser ordenados por ordem alfabética, A-Z e Z-A.
 
-Página de Personagens - Apresenta cards com todos os personagens no verso algumas informações de genêro, idade e filme que participa. Podem ser ordenados por ordem alfabética, A-Z e Z-A.
+Página de Personagens (Characters) - Apresenta cards com todos os personagens no verso algumas informações de genêro, idade e filme que participa. Podem ser ordenados por ordem alfabética, A-Z e Z-A.
 
-Página de Dados - Em formato de cards, possibilita ao usuário ter acesso à informações sobre o tema e médias. (Em construção)
+Página de Dados (About) - Em formato de cards, possibilita ao usuário ter acesso à informações sobre o tema e médias. (Em construção)
 
 
 ## 2. Histórias de Usuários
@@ -53,7 +52,7 @@ Construímos um desing responsível para se adequar as mais diversas telas, abai
 ![images](./src/images/Home_MotoG4.png)
 
 
-## 5. Conteúdos implementados no projeto
+## 4. Conteúdos implementados no projeto
 Para construir a interface desta aplicação, em que é possível visualizar e manipular dados, os conhecimentos abordados foram:
 
 - HTML e CSS
