@@ -43,4 +43,41 @@ Desenvolvemos o prototótipo de alta fidelidade no figma, onde posteriormente fi
 
 ![images](./src/images/Sample_Wireframe.png)
 
+Escolhemos a Flat UI Pallate em https://flatcolors.net/palette/182-flat-ui-pallate# como referência do site https://ghiblicollection.com/
+
+![Alt text](Flat_UI_Pallate.gif)
+
+## 5. Conteúdos implementados no projeto
+Para construir a interface desta aplicação, em que é possível visualizar e manipular dados, os conhecimentos abordados foram:
+
+HTML e CSS
+Uso de HTML semântico.
+Uso de seletores de CSS.
+Construir sua aplicação respeitando o desenho realizado (protótipo).
+Uso de flexbox em CSS.
+DOM e Web APIs
+Uso de seletores de DOM.
+Gerenciamento de eventos de DOM.
+Manipulação dinâmica de DOM. (appendChild |createElement | createTextNode| innerHTML | textContent | etc.)
+JavaScript
+Uso de condicionais (if-else | switch | operador ternário)
+Uso de laços (for | for..in | for..of | while)
+Uso de funções (parâmetros | argumentos | valor de retorno)
+Manipular arrays (filter | map | sort | reduce)
+Manipular objects (key | value)
+Uso ES modules (import | export)
+Diferenciar entre expression e statements.
+Diferenciar entre tipos de dados atômicos e estruturados.
+Testing
+Teste unitário.
+Estrutura do código e guia de estilo
+Organizar e dividir o código em módulos (Modularização)
+Uso de identificadores descritivos (Nomenclatura | Semântica)
+Uso de linter (ESLINT)
+Git e GitHub
+Uso de comandos de git (add | commit | pull | status | push)
+Gerenciar repositórios de GitHub (clone | fork | gh-pages)
+Colaboração no Github (branches | pull requests | |tags)
+
+
 
