@@ -25,21 +25,6 @@ const mockArrayFilms = [
 ]
 
 
-/*const mockArrayPeople = [
-  {
-    "name": "Pazu",
-  },
-  {
-    "name": "Lusheeta Toel Ul Laputa",
-  },
-  {
-    "name": "Dola",
-  },
-  {
-    "name": "Romska Palo Ul Laputa",
-  }
-]*/
-
 describe('function sortData', () => {
   it('is a function', () => {
     expect(typeof sortData).toBe('function');

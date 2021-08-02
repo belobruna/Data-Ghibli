@@ -2,7 +2,6 @@ import {sortData, filterData, calculateAvgScore} from './data.js';
 import data from './data/ghibli/ghibli.js';
 
 const keyframesContainer = document.getElementById("keyframesContainer");
-//const btnHome = document.getElementById("btnHome");
 const btnFilms = document.getElementById("btnFilms");
 const btnFilmsAZ = document.getElementById("btnFilmsAZ");
 const btnFilmsZA = document.getElementById("btnFilmsZA");
@@ -14,7 +13,6 @@ const btnSearchMenu = document.getElementById("btnSearchMenu");
 const btnModalSearch = document.getElementById("btnModalSearch");
 const closeModal = document.getElementsByClassName("closeModal")[0];
 const cardsContainer = document.getElementById("boxCards");
-//const modalContent = document.getElementById("modalContent");
 const modalArea = document.getElementById("modalArea");
 const searchResultContainer = document.getElementById("searchResultContainer");
 const logo = document.getElementById("logo-container");
@@ -45,7 +43,6 @@ function getPeople() {
 
 const printCardsFilms = (listaFilmes) => {
     clean()
-    //const cardsContent = "";
     listaFilmes.forEach(film => {
         cardsContainer.innerHTML += `
         <div class="filmCard">
@@ -68,12 +65,10 @@ const printCardsFilms = (listaFilmes) => {
             </div>
         </div>`
     })
-    //cardsContainer.innerHTML = cardsContent
 }
 
 const printCardsCharacters = (listaPersonagens) => {
     clean()
-    //const cardsContent = "";
     listaPersonagens.map(people => {
         cardsContainer.innerHTML += `
         <div class="characterCard">
@@ -93,7 +88,6 @@ const printCardsCharacters = (listaPersonagens) => {
             </div>
         </div>`
     })
-    //cardsContainer.innerHTML = cardsContent
 }
 
 function printAvgScore(){
@@ -109,8 +103,6 @@ function printAvgScore(){
                 </div>
             </div>
         </div>`
-
-    //console.log(avgScore)
 }
 
 function printCardsAbout(){
@@ -142,9 +134,6 @@ function printCardsAbout(){
     </div>`
 }
 
-// btnHome.addEventListener("click", () => {
-//     clean()
-// })
 
 btnFilms.addEventListener("click", () => {
     clean()
@@ -196,7 +185,6 @@ btnAbout.addEventListener("click", () => {
 
 
 btnModalSearch.addEventListener("click", () => {
-    //clean()
     const stringSearch = document.getElementById("modal-textarea").value.toLowerCase();
     const SearchResult = filterData(getFilms, stringSearch)
     searchResultContainer.innerHTML = `<h3 class="searchResult"> Search results for '${stringSearch}': </h3>`
@@ -222,27 +210,3 @@ window.onclick = function (event) {
         modalArea.style.display = "none";
     }
 }
-
-
-
-/*function searchDirector() {
-    const stringSearch = document.getElementById("modal-textarea").value;
-    console.log(stringSearch)
-    printCardsFilms(filterData(getFilms, stringSearch))
-}*/
-
-//console.log(avgScore)
-
-/*btnFilmsAZ.addEventListener("click", () => {
-    clean()
-    const mediaRt = agruparScore(data.films, 'rt_score');
-    console.log(mediaRt)
-    printCardsFilms(mediaRt)
-})
-
-btnFilmsZA.addEventListener("click", () => {
-    clean()
-    const mediaRt = agruparScore(data.films, 'release_date');
-    console.log(mediaRt)
-
-})*/
