@@ -38,7 +38,7 @@ Uma História de Usuário representa em linguagem simples o que o usuário faz, 
 
 Após a primeira análise dos dados disponíveis, percebemos que o site contaria com com cards de filmes e personagens que seriam filtrados e ordenados. A partir desta primeira ideia foi definido o protótipo de baixa fidelidade:
 
-(Protótipo de baixa fidelidade)
+![images](./src/images/Prototipo_Baixa.png) 
 
 Desenvolvemos o prototótipo de alta fidelidade no figma, onde posteriormente fizemos algumas alterações.
 
@@ -46,7 +46,7 @@ Desenvolvemos o prototótipo de alta fidelidade no figma, onde posteriormente fi
 
 Escolhemos a Flat UI Pallate em [sitepalette](https://flatcolors.net/palette/182-flat-ui-pallate#) como referência do site [siteghibli](https://ghiblicollection.com/).
 
-![images](Flat_UI_Pallate.gif)
+![images](./src/images/Flat_UI_Pallate.gif)
 
 Construímos um desing responsível para se adequar as mais diversas telas, abaixo temos o exemplo da Home acessada por um dispositivo móvel (Moto G4).
 ![images](./src/images/Home_MotoG4.png)
