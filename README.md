@@ -105,12 +105,9 @@ Para construir a interface desta aplicação, em que é possível visualizar e m
 
 <div align='center'>
 
-|                             Bruna Belo                       	      |                              Magna Dutra                                	|
+|                             Bruna Belo                       	      |                              Larissa Maranho                                	|
 |:------------------------------------------------------------------------------: |:------------------------------------------------------------------------------:	|
-|<img alt="Bruna Belo" src="https://avatars.githubusercontent.com/u/83475770?v=4" height='200px'></img> | <img src="https://avatars.githubusercontent.com/u/83652629?v=4" alt="" height='200px'></img> 	|
-| <a href='https://github.com/belobruna'><img alt='GitHub - Bruna' src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'></img></a> 
- <a href='https://www.linkedin.com/in/bruna-belo/'><img alt='LinkedIn - Bruna' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></img> 
-|  <a href='https://github.com/larissamaranho'><img alt='GitHub - Larissa' src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'></img></a> <a href='https://www.linkedin.com/in/larissa-maranho/'><img alt='LinkedIn - Larissa' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></img></a> 	|          	|
+|<img alt="Bruna Belo" src="https://avatars.githubusercontent.com/u/83475770?v=4" height='200px'></img> | <img src="https://avatars.githubusercontent.com/u/83652629?v=4" alt="" height='200px'></img> 	| | <a href='https://github.com/belobruna'><img alt='GitHub - Bruna' src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'></img></a> <a href='https://www.linkedin.com/in/bruna-belo/'><img alt='LinkedIn - Bruna' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></img> |  <a href='https://github.com/larissamaranho'><img alt='GitHub - Larissa' src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'></img></a> <a href='https://www.linkedin.com/in/larissa-maranho/'><img alt='LinkedIn - Larissa' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></img></a> 	|          	|
 </div>
 
 
