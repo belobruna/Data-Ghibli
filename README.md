@@ -48,7 +48,7 @@ Escolhemos a Flat UI Pallate em [sitepalette](https://flatcolors.net/palette/182
 
 ![images](./src/images/Flat_UI_Pallate.gif)
 
-Construímos um desing responsível para se adequar as mais diversas telas, abaixo temos o exemplo da Home acessada por um dispositivo móvel (Moto G4).
+Construímos um desing responsivo para se adequar as mais diversas telas, abaixo temos o exemplo da Home acessada por um dispositivo móvel (Moto G4).
 
 ![images](./src/images/Home_MotoG4.png)
 
