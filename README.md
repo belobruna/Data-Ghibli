@@ -90,12 +90,10 @@ Para construir a interface desta aplicação, em que é possível visualizar e m
  <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img  align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
   <img align="center" alt="github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div><br>
@@ -109,8 +107,10 @@ Para construir a interface desta aplicação, em que é possível visualizar e m
 
 |                             Bruna Belo                       	      |                              Magna Dutra                                	|
 |:------------------------------------------------------------------------------: |:------------------------------------------------------------------------------:	|
-|<img alt="Bruna Belo" src="src/img/Bruna.png.jfif" height='200px'></img> | <img src="src/img/mag.jfif" alt="" height='200px'></img> 	|
-| <a href='https://github.com/belobruna'><img alt='GitHub - Bruna' src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'></img></a> <a href='https://www.linkedin.com/in/bruna-belo/'><img alt='LinkedIn - Bruna' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></img>  |  <a href='https://github.com/larissamaranho'><img alt='GitHub - Larissa' src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'></img></a> <a href='https://www.linkedin.com/in/larissa-maranho/'><img alt='LinkedIn - Magna' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></img></a> 	|          	|
+|<img alt="Bruna Belo" src="https://avatars.githubusercontent.com/u/83475770?v=4" height='200px'></img> | <img src="https://avatars.githubusercontent.com/u/83652629?v=4" alt="" height='200px'></img> 	|
+| <a href='https://github.com/belobruna'><img alt='GitHub - Bruna' src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'></img></a> 
+ <a href='https://www.linkedin.com/in/bruna-belo/'><img alt='LinkedIn - Bruna' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></img> 
+|  <a href='https://github.com/larissamaranho'><img alt='GitHub - Larissa' src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'></img></a> <a href='https://www.linkedin.com/in/larissa-maranho/'><img alt='LinkedIn - Larissa' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></img></a> 	|          	|
 </div>
 
 
